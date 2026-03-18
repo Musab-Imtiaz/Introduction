@@ -1,2 +1,3 @@
-# Introduction
-demo
+Hello! My name is Musab Imtiaz, and I am a 14-year-old student with a passion for technology, coding, and learning new skills. With roots in both the Kingdom of Saudi Arabia and Pakistan, I’ve had the opportunity to experience diverse cultures and educational environments. Currently, I study at Pakistan International School in Riyadh, having previously attended Alfalah School System in Gujranwala.
+
+Aside from my academic journey, I enjoy exploring the world of computers and software. I am familiar with Windows, Proxmox virtualization, and Visual Studio Code, and I love experimenting with new tools and technologies. I’m always eager to expand my knowledge, engage in creative projects, and connect with others who share my interests in coding and technology!
